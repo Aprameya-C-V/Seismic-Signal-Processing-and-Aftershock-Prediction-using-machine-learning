@@ -23,16 +23,6 @@ To use this project, follow these steps:
 2. Navigate to the project folder: `cd seismic-signal-analysis`
 3. Install required dependencies: `pip install -r requirements.txt`
 
-## Usage
-
-To run the seismic signal analysis:
-
-```python
-import seismic_analysis
-
-results = seismic_analysis.analyze_signals()
-print(results)
-```
 
 ## Features
 
